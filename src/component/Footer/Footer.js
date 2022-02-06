@@ -14,7 +14,7 @@ function Footer() {
             <div className="px-4 flex items-center">
               <img className="h-12" src={logo} alt="" />
               <Link className="font-bold text-xl" to="/">
-                BiliMovies
+                DsmMovies
               </Link>
             </div>
             <div className="mt-5">
@@ -22,7 +22,7 @@ function Footer() {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.facebook.com/ngo.vanbang.20.04"
+                  href="https://m.facebook.com/imdadur.rahaman.543?ref=bookmarks"
                   className="p-1 rounded-full bg-[#262626]"
                 >
                   <svg
@@ -38,7 +38,7 @@ function Footer() {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/ngovanbang2001/"
+                  href="https://github.com/dshowss/"
                   className="p-1 rounded-full bg-[#262626]"
                 >
                   <svg
@@ -57,7 +57,7 @@ function Footer() {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.linkedin.com/in/ng%C3%B4-v%C4%83n-b%E1%BA%B1ng-6a3591205/"
+                  href="https://instagram.com/official_noizy_mix?utm_medium=copy_link"
                   className="p-1 rounded-full bg-[#262626] "
                 >
                   <svg
@@ -121,7 +121,7 @@ function Footer() {
         </div>
       </div>
       <div className="absolute bottom-0 ml-4" style={{ zIndex: "1" }}>
-        Made by Bang Ngo
+        Made by Dshows
       </div>
     </div>
   );
